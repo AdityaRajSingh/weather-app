@@ -1,2 +1,2 @@
 # weather-app
-A Weather web app App using React and weather API
+A Weather Web App using React and Weather API
